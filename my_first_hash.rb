@@ -14,8 +14,6 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-hash = {"shipping_Manifest" => "oil paintings"}
-
 end
 
 def adding
